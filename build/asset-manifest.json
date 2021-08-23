@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d448ee83.chunk.css",
+    "main.js": "/static/js/main.546175d2.chunk.js",
+    "main.js.map": "/static/js/main.546175d2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.143aa02e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.143aa02e.js.map",
+    "static/js/2.1326cf2a.chunk.js": "/static/js/2.1326cf2a.chunk.js",
+    "static/js/2.1326cf2a.chunk.js.map": "/static/js/2.1326cf2a.chunk.js.map",
+    "static/css/3.9eedb36f.chunk.css": "/static/css/3.9eedb36f.chunk.css",
+    "static/js/3.bd573ce8.chunk.js": "/static/js/3.bd573ce8.chunk.js",
+    "static/js/3.bd573ce8.chunk.js.map": "/static/js/3.bd573ce8.chunk.js.map",
+    "static/js/4.aeb62ade.chunk.js": "/static/js/4.aeb62ade.chunk.js",
+    "static/js/4.aeb62ade.chunk.js.map": "/static/js/4.aeb62ade.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/3.9eedb36f.chunk.css.map": "/static/css/3.9eedb36f.chunk.css.map",
+    "static/css/main.d448ee83.chunk.css.map": "/static/css/main.d448ee83.chunk.css.map",
+    "static/js/2.1326cf2a.chunk.js.LICENSE.txt": "/static/js/2.1326cf2a.chunk.js.LICENSE.txt",
+    "static/js/3.bd573ce8.chunk.js.LICENSE.txt": "/static/js/3.bd573ce8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/flaticon.986333f9.woff2",
+    "static/media/logo-giraa.04eaf3ad.jpg": "/static/media/logo-giraa.04eaf3ad.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.143aa02e.js",
+    "static/js/2.1326cf2a.chunk.js",
+    "static/css/main.d448ee83.chunk.css",
+    "static/js/main.546175d2.chunk.js"
+  ]
+}
